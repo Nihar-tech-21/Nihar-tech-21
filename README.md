@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CSS,JS , Nodejs**
 
-- 📫 How to reach me **profess527nd@gmail.com**
+- 📫 How to reach me **niharika.dhaka.20@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
