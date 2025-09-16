@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihar-tech-21&show_icons=true&locale=en" alt="nihar-tech-21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-tech-21&theme=dark&cache_seconds=1800" alt="nihar-tech-21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-tech-21&" alt="nihar-tech-21" /></p>
 
 <!--
 **Nihar-tech-21/Nihar-tech-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
