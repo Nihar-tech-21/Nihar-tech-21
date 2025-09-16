@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar-tech-21&label=Profile%20views&color=0e75b6&style=flat" alt="nihar-tech-21" /> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Fullstack Web Development | Java**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **AWS, Azure**
 
-- 💬 Ask me about **CSS,JS , Nodejs**
+- 💬 Ask me about **HTML, CSS, JS, Nodejs, Express, React, MERN stack, Java, C, python**
 
 - 📫 How to reach me **niharika.dhaka.20@gmail.com**
 
